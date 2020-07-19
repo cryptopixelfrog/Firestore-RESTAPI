@@ -2,14 +2,14 @@
 Simple REST API with Google Cloud Firestore and Node JS 
 
 ## Pre-requirements
-Firebase account
-Firebase-tool
-Postman
-NodeJS
+- Firebase account
+- Firebase-tool
+- Postman
+- NodeJS
 
 ## Creating project in Google Firebase
 ### Login to Firebase Console and create new project
-<img src="doc/img/01_firebase_console.png" width="300">
+<img src="doc/img/01_firebase_console.png" width="600">
 
 ## Install Firebase-tool
 ```
@@ -82,10 +82,10 @@ Above will start Function Emulator.
 ```
 
 ## Test API with Postman
-<img src="doc/img/postman_setting.png" width="300">
+<img src="doc/img/postman_setting.png" width="600">
 
 ## Confirm Test Data on Firestore
-<img src="doc/img/firestore_confirm.png" width="300">
+<img src="doc/img/firestore_confirm.png" width="600">
 
 ## Deploy Functions To Firebase
 ```
